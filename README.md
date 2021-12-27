@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matzeziegler
-- 👀 I’m interested in C# Coding, Rider, Azure
+- 👀 I’m interested in C# Coding, Rider, Azure and Sailing ;-)
 - 🌱 I’m currently learning to be a Azure developer
 - 💞️ I’m looking to collaborate .. 
 - 📫 How to reach me ... mz@datagenium.de
